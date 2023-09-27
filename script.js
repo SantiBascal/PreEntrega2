@@ -119,4 +119,3 @@ function operacion(){
 
 
 inicio(prompt("ingrese su usuario"));
-
